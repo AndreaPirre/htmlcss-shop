@@ -1,11 +1,11 @@
 .contenitore {
-    width: 1012px;
+    width: 780px;
     margin: auto;
     border: 1px solid black;
 }
 
 .boxprodotto {
-    width: 250px;
+    width: 256px;
     height: 256px;
     background-color: grey ;
     display: inline-block;
@@ -23,6 +23,7 @@
     right: 0px;
     background-color: red;
     line-height: 40px;
+    /* padding: 5px; */
 }
 
 .cuore {
