@@ -1,0 +1,13 @@
+.contenitore {
+width: 1300px;
+margin: auto;
+border: 1px solid black;
+}
+
+.boxprodotto {
+width: 250px;
+height: 300px;
+background-color: green;
+
+
+}
