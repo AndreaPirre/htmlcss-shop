@@ -1,7 +1,6 @@
 .contenitore {
     width: 780px;
     margin: auto;
-    border: 1px solid black;
 }
 
 .boxprodotto {
@@ -23,7 +22,13 @@
     right: 0px;
     background-color: red;
     line-height: 40px;
-    /* padding: 5px; */
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.offerta {
+    background-color: orange;
 }
 
 .cuore {
