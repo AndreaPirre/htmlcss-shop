@@ -6,10 +6,14 @@
 
 .boxprodotto {
     width: 250px;
-    height: 300px;
-    background-color: green;
+    height: 256px;
+    background-color: grey ;
     display: inline-block;
     position: relative;
+}
+
+.boxprodotto > img {
+    width: 100%;
 }
 
 .sconto {
@@ -26,7 +30,7 @@
     position: absolute;
     bottom: 5px;
     /* width: 100%; */
-    font-size: 30px;
+    font-size: 60px;
     display: none;
     color: lightgrey;
 }
@@ -34,6 +38,4 @@
 .boxprodotto:hover .cuore{
     color: red;
     display: block;
-
-
 }
