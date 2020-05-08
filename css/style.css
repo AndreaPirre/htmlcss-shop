@@ -29,10 +29,12 @@
     background-color: orange;
 }
 
+
 .cuore {
-    right: 50%;
+    width: 100%;
+    text-align: center;
     position: absolute;
-    bottom: 5px;
+    bottom:  5px;
     font-size: 40px;
     display: none;
     color: lightgrey;
@@ -44,5 +46,5 @@
 }
 
 .secondafila {
-    margin-top: 20px;           
+    margin-top: 20px;
 }
